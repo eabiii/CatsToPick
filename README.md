@@ -1,4 +1,4 @@
-# CatsToPick
+CatsToPick
 How to run the project
 *Must have the following dependencies installed
 XAMPP
